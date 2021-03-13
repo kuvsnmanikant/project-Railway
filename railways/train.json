@@ -1,0 +1,19 @@
+{"_id": 102010,"details":"HUMSAFAR","Train_fistday": "monday","Train_lastday": "wednesday","Arrival_time": "03:15:00","Departure_time": "15:22:00","Stations":["S0007","S0005","S0003","S0004"]}
+{"_id": 102011,"details":"HUMSAFAR","Train_fistday": "thursday","Train_lastday": "sunday","Arrival_time": "06:15:00","Departure_time": "22:22:00","Stations":["S0004","S0003","S0005","S0007"]}
+{"_id":"HUMSAFAR","Train_name": "HUMSAFAR EXPRESS","Train_type": "express","Coach_type":"ALL","Distance": 1950,"Noseats":{"AC":{"A":10,"B":20,"C":25},"SL":{"S1":50,"S2":25,"S3":33}}}
+
+{"_id": 102020,"details":"SBC","Train_fistday": "tuesday","Train_lastday": "friday","Arrival_time": "06:20:00","Departure_time": "19:10:00","Stations":["S0002","S0003","S0007"]}
+{"_id": 102021,"details":"SBC","Train_fistday": "saturday","Train_lastday": "tuesday","Arrival_time": "02:00:00","Departure_time": "01:00:00","Stations":["S0007","S0003","S0002"]}
+{"_id":"SBC","Train_name": "SBC NZM SUPERFAST","Train_type": "superfast","Coach_type":"AC","Distance": 2011,"Noseats":{"AC":{"A":20,"B":30,"C":35}}}	
+
+{"_id": 102030,"details":"ASR","Train_fistday": "wednesday","Train_lastday": "thursday","Arrival_time": "16:20:00","Departure_time": "16:30:00","Stations":["S0001","S0002","S0003","S0006"]}
+{"_id": 102031,"details":"ASR","Train_fistday": "sunday","Train_lastday": "monday","Arrival_time": "09:10:00","Departure_time": "09:40:00","Stations":["S0006","S0003","S0002","S0001"]}
+{"_id": "ASR","Train_name": "ASR NGP SUPERFAST","Train_type": "superfast","Coach_type":"ALL","Distance": 1625,"Noseats":{"AC":{"A":10,"B":24,"C":15},"SL":{"S1":50,"S2":25,"S3":33}}}	
+
+{"_id": 102040,"details":"HOWRAH","Train_fistday": "thursday","Train_lastday": "saturday","Arrival_time": "20:50:00","Departure_time": "5:30:00","Stations":["S0004","S0006","S0007"]}
+{"_id": 102041,"details":"HOWRAH","Train_fistday": "sunday","Train_lastday": "monday","Arrival_time": "05:30:00","Departure_time": "20:50:00","Stations":["S0007","S0006","S0004"]}
+{"_id":"HOWRAH","Train_name": "HOWRAH EXPRESS","Train_type": "express","Coach_type":"SL","Distance": 1228,"Noseats":{"SL":{"S1":50,"S2":25,"S3":33}}}
+
+{"_id": 102050,"Train_fistday": "friday","Train_lastday": "monday","Arrival_time": "12:00:00","Departure_time": "4:10:00","Stations":["S0001","S0002","S0005","S0004"]}
+{"_id": 102051,"Train_fistday": "friday","Train_lastday": "monday","Arrival_time": "04:10:00","Departure_time": "12:00:00","Stations":["S0004","S0005","S0002","S0001"]}
+{"_id":"HTE","Train_name": "HTE LTT SPECIAL TRAIN","Train_type": "special","Coach_type":"AC","Distance": 1985,"Noseats":{"AC":{"A":20,"B":30,"C":35}}}             
