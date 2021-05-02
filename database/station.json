@@ -1,0 +1,279 @@
+ {
+ 	"_id":"S0001",
+ 	"station_name": "Amritsar",
+ 	"station_id": "S0001",
+ 	"station_list":[
+ 		{
+ 			"train_id":102030,
+ 			"train_day":"wednesday",
+ 			"train_arivel":"-",
+ 			"train_departure":"16:30:00"
+ 		},
+ 		{
+ 			"train_id":102031,
+ 			"train_day":"monday",
+ 			"train_arivel":"14:10:00",
+ 			"train_departure":"-"
+ 		},
+ 		{
+ 			"train_id":102050,
+ 			"train_day":"friday",
+ 			"train_arivel":"-",
+ 			"train_departure":"4:10:00"
+ 		},
+ 		{
+ 			"train_id":102051,
+ 			"train_day":"thursday",
+ 			"train_arivel":"21:00:00",
+ 			"train_departure":"-"
+ 		}
+ 	]
+ }
+
+
+ {"_id":"S0002",
+ 	"station_name": "Delhi",
+ 	"station_id": "S0002",
+ 	"station_list":[
+ 		{
+ 			"train_id":102030,
+ 			"train_day":"wednesday",
+ 			"train_arivel":"23:10:00",
+ 			"train_departure":"23:15:00"
+ 		},
+ 		{
+ 			"train_id":102031,
+ 			"train_day":"monday",
+ 			"train_arivel":"09:35:00",
+ 			"train_departure":"09:40:00"
+ 		},
+ 		{
+ 			"train_id":102050,
+ 			"train_day":"friday",
+ 			"train_arivel":"09:10:00",
+ 			"train_departure":"09:20:00"
+ 		},
+ 		{
+ 			"train_id":102051,
+ 			"train_day":"thursday",
+ 			"train_arivel":"16:10:00",
+ 			"train_departure":"16:20:00"
+ 		},
+ 		{
+ 			"train_id":102020,
+ 			"train_day":"tuesday",
+ 			"train_arivel":"-",
+ 			"train_departure":"17:10:00"
+ 		},
+ 		{
+ 			"train_id":102021,
+ 			"train_day":"sunday",
+ 			"train_arivel":"08:00:00",
+ 			"train_departure":"-"
+ 		}
+ 	]
+ }
+
+ {"_id":"S0003",
+ 	"station_name": "Bhopal",
+ 	"station_id": "S0003",
+ 	"station_list":[
+ 		{
+ 			"train_id":102030,
+ 			"train_day":"thursday",
+ 			"train_arivel":"12:25:00",
+ 			"train_departure":"12:45:00"
+ 		},
+ 		{
+ 			"train_id":102031,
+ 			"train_day":"sunday",
+ 			"train_arivel":"22:40:00",
+ 			"train_departure":"23:00:00"
+ 		},
+ 		{
+ 			"train_id":102020,
+ 			"train_day":"wednesday",
+ 			"train_arivel":"01:45:00",
+ 			"train_departure":"02:00:00"
+ 		},
+ 		{
+ 			"train_id":102021,
+ 			"train_day":"sunday",
+ 			"train_arivel":"00:10:00",
+ 			"Departure_time":"00:25:00"
+ 		},
+ 		{
+ 			"train_id":102010,
+ 			"train_day":"tuesday",
+ 			"train_arivel":"01:20:00",
+ 			"train_departure":"01:30:00"
+ 		},
+
+ 		{
+ 			"train_id":102011,
+ 			"train_day":"saturday",
+ 			"train_arivel":"05:35:00",
+ 			"train_departure":"05:45:00"
+ 		}
+ 	]
+ }
+
+ {"_id":"S0004",
+ 	"station_name": "Ranchi",
+ 	"station_id": "S0004",
+ 	"station_list":[
+
+ 		{
+ 			"train_id":102050,
+ 			"train_day":"sunday",
+ 			"train_arivel":"00:00:00",
+ 			"train_departure":"-"
+ 		},
+
+ 		{
+ 			"train_id":102051,
+ 			"train_day":"tuesday",
+ 			"train_arivel":"-",
+ 			"train_departure":"12:10:00"
+ 		},
+ 		{
+ 			"train_id":102010,
+ 			"train_day":"wednesday",
+ 			"train_arivel":"-",
+ 			"train_departure":"15:22:00"
+ 		},
+
+ 		{
+ 			"train_id":102011,
+ 			"train_day":"saturday",
+ 			"train_arivel":"",
+ 			"train_departure":"16:00:00"
+ 		},
+ 		{
+ 			"train_id":102040,
+ 			"train_day":"thursday",
+ 			"train_arivel":"-",
+ 			"train_departure":"05:30:00"
+ 		},
+
+ 		{
+ 			"train_id":102041,
+ 			"train_day":"monday",
+ 			"train_arivel":"05:30:00",
+ 			"train_departure":"-"
+ 		}
+ 	]
+ }
+ {"_id":"S0005",
+ 	"station_name": "Mumbai",
+ 	"station_id": "S0005",
+ 	"station_list":[
+ 		{
+ 			"train_id":102050,
+ 			"train_day":"saturday",
+ 			"train_arivel":"01:30:00",
+ 			"train_departure":"2:10:00"
+ 		},
+ 		{
+ 			"train_id":102051,
+ 			"train_day":"wednesday",
+ 			"train_arivel":"02:10:00",
+ 			"train_departure":"02:50:00"
+ 		},
+ 		{
+ 			"train_id":102010,
+ 			"train_day":"tuesday",
+ 			"train_arivel":"10:20:00",
+ 			"train_departure":"10:30:00"
+ 		},
+
+ 		{
+ 			"train_id":102011,
+ 			"train_day":"friday",
+ 			"train_arivel":"22:30:00",
+ 			"train_departure":"22:40:00"
+ 		}
+ 	]
+ }
+
+ {"_id":"S0006",
+ 	"station_name": "Hyderabad",
+ 	"station_id": "S0006",
+ 	"station_list":[
+ 		{
+ 			"train_id":102030,
+ 			"train_day":"thursday",
+ 			"train_arivel":"23:30:00",
+ 			"train_departure":"-"
+ 		},
+ 		{
+ 			"train_id":102031,
+ 			"train_day":"sunday",
+ 			"train_arivel":"-",
+ 			"train_departure":"09:40:00"
+ 		},
+ 		{
+ 			"train_id":102040,
+ 			"train_day":"thursday",
+ 			"train_arivel":"23:20:00",
+ 			"train_departure":"23:30:00"
+ 		},
+
+ 		{
+ 			"train_id":102041,
+ 			"train_day":"monday",
+ 			"train_arivel":"03:15:00",
+ 			"train_departure":"03:20:00"
+ 		}
+ 	]
+ }
+
+ {"_id":"S0007",
+ 	"station_name": "Thiruvanantha Puram",
+ 	"station_id": "S0007",
+ 	"station_list":[
+ 		{
+ 			"train_id":102020,
+ 			"train_day":"thursday",
+ 			"train_arivel":"06:20:00",
+ 			"train_departure":"-"
+ 		},
+ 		{
+ 			"train_id":102021,
+ 			"train_day":"saturday",
+ 			"train_arivel":"-",
+ 			"train_departure":"01:00:00"
+ 		},
+ 		{
+ 			"train_id":102010,
+ 			"train_day":"monday",
+ 			"train_arivel":"06:20:00",
+ 			"train_departure":"-"
+ 		},
+
+ 		{
+ 			"train_id":102011,
+ 			"train_day":"thursday",
+ 			"train_arivel":"-",
+ 			"train_departure":"22:22:00"
+ 		},
+ 		{
+ 			"train_id":102040,
+ 			"train_day":"friday",
+ 			"train_arivel":"05:10:00",
+ 			"train_departure":"-"
+ 		},
+
+ 		{
+ 			"train_id":102041,
+ 			"train_day":"sunday",
+ 			"train_arivel":"-",
+ 			"train_departure":"20:50:00"
+ 		}
+ 	]
+ }
+
+ {
+ 	"_id":"distance",
+ 	"distance":["S0001 S0002 200","S0003 S0002 725","S0005 S0002 913", "S0003 S0004 500","S0003 S0005 450","S0003 S0006 700","S0003 S0007 1286","S0005 S0004 872","S0004 S0006 928","S0005 S0007 1000","S0006 S0007 300"]
+ }

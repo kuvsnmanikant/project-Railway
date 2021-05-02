@@ -1,0 +1,26 @@
+{"_id":"102010","train_id": "102010","details":{"train_name": "HUMSAFAR EXPRESS","train_type": "express","coach_type":"ALL","distance": [0,1000,1450,1950],"seat":{"ac":{"coach":[10,20,25]},"sl":{"coach":[50,25,33]}}},"train_fistday": "monday","train_lastday": "wednesday","arrival_time": "06:20:00","departure_time": "15:22:00","stations":["S0007","S0005","S0003","S0004"]}
+{"_id": "102011","train_id": "102011","details":{"train_name": "HUMSAFAR EXPRESS","train_type": "express","coach_type":"ALL","distance": [0,500,950,1950],"seat":{"ac":{"coach":[10,20,25]},"sl":{"coach":[50,25,33]}}},"train_fistday": "saturday","train_lastday": "saturday","arrival_time": "16:00:00","departure_time": "22:22:00","stations":["S0004","S0003","S0005","S0007"]}
+
+
+{"_id": "102020","train_id": "102020","details":{"train_name": "SBC NZM SUPERFAST","train_type": "superfast","coach_type":"AC","distance": [0,725,2008],"seat":{"ac":{"coach":[20,30,35]}}},"train_fistday": "tuesday","train_lastday": "thursday","arrival_time": "06:20:00","departure_time": "17:10:00","stations":["S0002","S0003","S0007"]}
+{"_id": "102021","train_id": "102021","details":{"train_name": "SBC NZM SUPERFAST","train_type": "superfast","coach_type":"AC","distance": [0,1286,2008],"seat":{"ac":{"coach":[20,30,35]}}},"train_fistday": "saturday","train_lastday": "sunday","arrival_time": "08:00:00","departure_time": "01:00:00","stations":["S0007","S0003","S0002"]}
+	
+
+{"_id": "102030","train_id": "102030","details":{"train_name": "ASR NGP SUPERFAST","train_type": "superfast","coach_type":"ALL","distance": [0,200,925,1625],"seat":{"ac":{"coach":[10,24,15]},"sl":{"coach":[50,25,33]}}},"train_fistday": "wednesday","train_lastday": "thursday","arrival_time": "23:30:00","departure_time": "16:30:00","stations":["S0001","S0002","S0003","S0006"]}
+{"_id": "102031","train_id": "102031","details":{"train_name": "ASR NGP SUPERFAST","train_type": "superfast","coach_type":"ALL","distance": [0,700,1425,1625],"seat":{"ac":{"coach":[10,24,15]},"sl":{"coach":[50,25,33]}}},"train_fistday": "sunday","train_lastday": "monday","arrival_time": "14:10:00","departure_time": "09:40:00","stations":["S0006","S0003","S0002","S0001"]}
+	
+
+{"_id": "102040","train_id": "102040","details":{"train_name": "HOWRAH EXPRESS","train_type": "express","coach_type":"SL","distance": [0,928,1228],"seat":{"sl":{"coach":[50,25,33]}}},"train_fistday": "thursday","train_lastday": "friday","arrival_time": "05:10:00","departure_time": "5:30:00","stations":["S0004","S0006","S0007"]}
+{"_id": "102041","train_id": "102041","details":{"train_name": "HOWRAH EXPRESS","train_type": "express","coach_type":"SL","distance": [0,300,1228],"seat":{"sl":{"coach":[50,25,33]}}},"train_fistday": "sunday","train_lastday": "monday","arrival_time": "05:30:00","departure_time": "20:50:00","stations":["S0007","S0006","S0004"]}
+
+
+{"_id": "102050","train_id": "102050","details":{"train_name": "HTE LTT SPECIAL TRAIN","train_type": "special","coach_type":"AC","distance": [0,200,1113,1985],"seat":{"ac":{"coach":[20,30,35]}}},"train_fistday": "friday","train_lastday": "sunday","arrival_time": "00:00:00","departure_time": "4:10:00","stations":["S0001","S0002","S0005","S0004"]}
+{"_id": "102051","train_id": "102051","details":{"train_name": "HTE LTT SPECIAL TRAIN","train_type": "special","coach_type":"AC","distance": [0,872,1785,1985],"seat":{"ac":{"coach":[20,30,35]}}},"train_fistday": "tuesday","train_lastday": "thursday","arrival_time": "21:00:00","departure_time": "12:10:00","stations":["S0004","S0005","S0002","S0001"]}
+  
+// {"_id":"102051","train_id": "102051","train_fistday": "tuesday","train_lastday": "thursday","arrival_time": "04:10:00","departure_time": "12:00:00","stations":["S0004","S0005","S0002","S0001"]}
+https://www.devglan.com/spring-boot/spring-data-mongodb-queries
+
+https://www.baeldung.com/spring-boot-testing
+
+
+https://bezkoder.com/react-hooks-jwt-auth/

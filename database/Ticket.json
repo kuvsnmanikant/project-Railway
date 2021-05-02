@@ -1,0 +1,68 @@
+{
+	"id":"d",
+	"train_type":"express",
+	"price":{
+		"ac":{
+			"distance":2.0,
+			"food":{
+				"nv":50,
+				"veg":25
+			},
+			"insurance":0.25
+		},
+		"sl":{
+			"distance":1.5,
+			"food":{
+				"nv":50,
+				"veg":25
+			},
+			"insurance":0.20
+		}
+	}
+}
+
+{
+	"id":"dl",
+	"train_type":"superfast",
+	"price":{
+		"ac":{
+			"distance":2.5,
+			"food":{
+				"nv":60,
+				"veg":30
+			},
+			"insurance":0.35
+		},
+		"sl":{
+			"distance":2.0,
+			"food":{
+				"nv":60,
+				"veg":30
+			},
+			"insurance":0.30
+		}
+	}
+}
+
+{
+	"id":"df",
+	"train_type":"special",
+	"price":{
+		"ac":{
+			"distance":3.5,
+			"food":{
+				"nv":65,
+				"veg":32
+			},
+			"insurance":0.35
+		},
+		"sl":{
+			"distance":3.0,
+			"food":{
+				"nv":65,
+				"veg":32
+			},
+			"insurance":0.30
+		}
+	}
+}

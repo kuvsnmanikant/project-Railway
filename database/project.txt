@@ -1,0 +1,89 @@
+theam:
+https://material.angular.io/
+
+
+
+mongo db conncectiong 2 collections:
+https://docs.mongodb.com/manual/reference/database-references/
+
+
+
+
+authentication in mongo db:
+https://docs.mongodb.com/manual/reference/method/db.createRole/#db.createRole
+
+
+
+
+reference:
+https://www.javatpoint.com/advantges-and-disadvantages-of-microservices
+
+
+addin bootstrap to our project react
+cd project_name
+npm add bootstrap react-bootstrap
+>>>  in app.js     import 'bootstrap/dist/css/bootstrap.min.css'      import {Button,....} from 'react-bootstrap'
+https://www.youtube.com/watch?v=8pKjULHzs0s
+
+
+
+login page
+https://www.youtube.com/watch?v=QoLUB0QkUaE&t=166s
+
+login page validation
+https://www.youtube.com/watch?v=JiFCwo3iBuk&t=21s
+
+
+security in react 
+screenshot 257
+https://www.youtube.com/watch?v=A9WlkhdLnn0&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=40
+
+
+to get the http liks in react 
+install axios in your project
+
+
+
+
+
+to add new dependency in project
+cd project name
+>> npm add dependency_name
+
+
+
+
+error handling in react
+https://www.youtube.com/watch?v=DNYXgtZBRPE&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=32
+
+
+higher order component i react used for reusing code to child components
+
+
+
+
+in my-app postform for form in our project
+
+
+formik for form validaion in react
+
+railways
+https://github.com/taogeng3/Train-Ticket-Reservation-System-with-Spring-Boot
+
+
+nav bar
+train timetable 
+conditions of cancilations
+
+
+
+react 
+https://material-ui.com/components/hidden/
+
+
+manikant   Manikant1@
+
+uma  Uma@1234
+
+to run spring boot in cmd
+ >  ./mvnw spring-boot:run
