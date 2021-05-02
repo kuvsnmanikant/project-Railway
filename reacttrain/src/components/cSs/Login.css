@@ -1,0 +1,22 @@
+.form-container{
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgb(143, 136, 136);
+   
+}
+.aaaa{
+    background-color: rgb(71, 82, 82);
+    color: white;
+}
+.close {
+    color: red; 
+    opacity: 1;
+}
+.modal {
+
+    max-width: 99vw;
+height: 100%;
+max-height: 100%;
+
+}

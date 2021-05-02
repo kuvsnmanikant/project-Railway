@@ -1,0 +1,1 @@
+export {setTheam} from './Theam/TheamAction';
